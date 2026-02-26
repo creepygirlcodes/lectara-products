@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name_en": "The Starter Pack",
+      "name_ar": "مجموعة البداية",
+      "image_url": "https://raw.githubusercontent.com/YourUser/lectara-products/main/images/starter-pack.jpg",
+      "price": 366.56,
+      "blurb_en": "All‑in‑one routine set 💙 Travel‑friendly ✈️",
+      "blurb_ar": "مجموعة كاملة للعناية 💙 مناسب للسفر ✈️",
+      "skin_types": ["Oily","Dry","Combo","Sensitive"],
+      "concerns": ["Routine"]
+    }
+  ]
+}
